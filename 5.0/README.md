@@ -1,4 +1,4 @@
-# Version 5.0
+# Apache Cassandra Version 5.0 Documentation
 ### built from https://github.com/apache/cassandra/tree/cassandra-5.0/doc
 
 <br>
