@@ -1,5 +1,6 @@
 # Apache Cassandra Version 5.0 Documentation
 ### built from https://github.com/apache/cassandra/tree/cassandra-5.0/doc
+##### updated on 19-Nov-2024
 
 <br>
 
